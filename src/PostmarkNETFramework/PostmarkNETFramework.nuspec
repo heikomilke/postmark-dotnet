@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>PostmarkNETFramework</id>
+        <version>4.3.0.777</version>
+        <authors>Daniel Crenna, JP Toto, Andrew Theken, Heiko Milke</authors>
+        <owners>Wildbit</owners>
+        <licenseUrl>https://github.com/wildbit/postmark-dotnet/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/wildbit/postmark-dotnet/wiki</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/wildbit/postmark-dotnet/master/postmark-logo.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Fork of the official client library for PostmarkApp. (https://postmarkapp.com). Building for .NET Framework</description>
+        <releaseNotes>Added nuget that builds for .NET framework rather than netstandard to handle System.Net.Http ref issues</releaseNotes>
+        <copyright>Copyright 2019</copyright>
+    </metadata>
+</package>
